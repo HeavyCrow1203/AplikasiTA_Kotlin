@@ -1,0 +1,243 @@
+{
+  "project_info": {
+    "project_number": "615680161307",
+    "firebase_url": "https://tugasakhir-7ca2a-default-rtdb.firebaseio.com",
+    "project_id": "tugasakhir-7ca2a",
+    "storage_bucket": "tugasakhir-7ca2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615680161307:android:56dac0877f08fb27dd2abe",
+        "android_client_info": {
+          "package_name": "com.example.aplikasita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615680161307-pknbds53q2l9vtm0ie0g2k84sds92f43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgM2LA7uFnQULgesXl9Z90W6kDTBJkZP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615680161307-pknbds53q2l9vtm0ie0g2k84sds92f43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615680161307:android:00ba1a5654fcbc1cdd2abe",
+        "android_client_info": {
+          "package_name": "com.example.aplikasita_ecogarden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615680161307-pknbds53q2l9vtm0ie0g2k84sds92f43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgM2LA7uFnQULgesXl9Z90W6kDTBJkZP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615680161307-pknbds53q2l9vtm0ie0g2k84sds92f43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615680161307:android:bc5311a508d86ec5dd2abe",
+        "android_client_info": {
+          "package_name": "com.example.aplikasita_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615680161307-pknbds53q2l9vtm0ie0g2k84sds92f43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgM2LA7uFnQULgesXl9Z90W6kDTBJkZP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615680161307-pknbds53q2l9vtm0ie0g2k84sds92f43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615680161307:android:0feb0ac80ec2e284dd2abe",
+        "android_client_info": {
+          "package_name": "com.example.ecogarden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615680161307-pknbds53q2l9vtm0ie0g2k84sds92f43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgM2LA7uFnQULgesXl9Z90W6kDTBJkZP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615680161307-pknbds53q2l9vtm0ie0g2k84sds92f43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615680161307:android:4e6fb9f234fc8895dd2abe",
+        "android_client_info": {
+          "package_name": "com.example.garduino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615680161307-pknbds53q2l9vtm0ie0g2k84sds92f43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgM2LA7uFnQULgesXl9Z90W6kDTBJkZP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615680161307-pknbds53q2l9vtm0ie0g2k84sds92f43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615680161307:android:ac707811332dae17dd2abe",
+        "android_client_info": {
+          "package_name": "com.example.garduino3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615680161307-pknbds53q2l9vtm0ie0g2k84sds92f43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgM2LA7uFnQULgesXl9Z90W6kDTBJkZP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615680161307-pknbds53q2l9vtm0ie0g2k84sds92f43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615680161307:android:5fffa807ca6460c5dd2abe",
+        "android_client_info": {
+          "package_name": "com.example.smartgardenapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615680161307-pknbds53q2l9vtm0ie0g2k84sds92f43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgM2LA7uFnQULgesXl9Z90W6kDTBJkZP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615680161307-pknbds53q2l9vtm0ie0g2k84sds92f43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615680161307:android:50a12e2a5e570d39dd2abe",
+        "android_client_info": {
+          "package_name": "com.example.ta_ecogarden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615680161307-pknbds53q2l9vtm0ie0g2k84sds92f43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgM2LA7uFnQULgesXl9Z90W6kDTBJkZP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615680161307-pknbds53q2l9vtm0ie0g2k84sds92f43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

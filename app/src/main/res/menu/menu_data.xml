@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_search"
+        android:title="@string/cari"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="ifRoom|collapseActionView"
+        android:orderInCategory="100"/>
+
+    <item
+        android:id="@+id/action_sort"
+        android:title="@string/sort_by_date"
+        android:icon="@drawable/ic_sort"
+        app:showAsAction="withText">
+        <menu>
+            <item
+                android:id="@+id/action_sort_descending"
+                android:title="@string/newest_descending"
+                android:icon="@drawable/ic_descending"/>
+            <item
+                android:title="@string/oldest_ascending"
+                android:id="@+id/action_sort_ascending"
+                android:icon="@drawable/ic_ascending"/>
+        </menu>
+
+    </item>
+</menu>
